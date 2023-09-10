@@ -1,6 +1,7 @@
 ---
 title: "Noobing a blog"
 date: 2023-09-07
+modified: 2023-09-10
 ---
 
 Who would have thought that after all these years, my first blog article would be here.
@@ -10,6 +11,7 @@ You always hear these wonderful success stories about "How I made 50K in 2 weeks
 ```
 It's not about the destination, It's about the journey
 ```
+
 My main goals for this series of posts are to talking about my journey attempting new experiences.
 You as an audience will have a big role in that process, as I expect hearing from you, if you are an expert in a topic I could discuss, a complete noob like myself, or just a curious chap wishingn to seek entertainment in somebody struggling in life as a noob.
 
