@@ -31,3 +31,5 @@ By being realistic, I do not know if my style is unique or interesting for an ou
 I hope it will help me realizing that I do evolve in life, I am not stagnating.
 
 Next, you can expect multiple posts about different subjects, different experiences I had. For sure, I will learn a lot from this new experiences and I am looking forward to that. Being a noob is traditionally badly seen. But in my opinion as long as you keep improving even by failing, noobing is a great show of someone who has a curious mind, some kind of intelligence and humility.
+
+So welcome to my journey and let's noob along!
